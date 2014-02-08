@@ -17,7 +17,7 @@ using namespace CocosDenshion;
 
 AppDelegate::AppDelegate()
 {
-
+    ;
 }
 
 AppDelegate::~AppDelegate()
